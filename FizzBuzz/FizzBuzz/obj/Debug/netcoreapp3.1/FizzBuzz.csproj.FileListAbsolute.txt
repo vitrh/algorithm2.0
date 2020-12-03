@@ -1,0 +1,13 @@
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
