@@ -1,0 +1,13 @@
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Bubblesort\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.exe
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Bubblesort\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.deps.json
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Bubblesort\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.runtimeconfig.json
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Bubblesort\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.runtimeconfig.dev.json
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Bubblesort\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.dll
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Bubblesort\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.pdb
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Bubblesort\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.csprojAssemblyReference.cache
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Bubblesort\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.AssemblyInfoInputs.cache
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Bubblesort\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.AssemblyInfo.cs
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Bubblesort\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.csproj.CoreCompileInputs.cache
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Bubblesort\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.dll
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Bubblesort\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.pdb
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Bubblesort\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.genruntimeconfig.cache
