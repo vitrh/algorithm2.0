@@ -1,0 +1,13 @@
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Insertionsort\Insertionsort\bin\Debug\netcoreapp3.1\Insertionsort.exe
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Insertionsort\Insertionsort\bin\Debug\netcoreapp3.1\Insertionsort.deps.json
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Insertionsort\Insertionsort\bin\Debug\netcoreapp3.1\Insertionsort.runtimeconfig.json
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Insertionsort\Insertionsort\bin\Debug\netcoreapp3.1\Insertionsort.runtimeconfig.dev.json
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Insertionsort\Insertionsort\bin\Debug\netcoreapp3.1\Insertionsort.dll
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Insertionsort\Insertionsort\bin\Debug\netcoreapp3.1\Insertionsort.pdb
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Insertionsort\Insertionsort\obj\Debug\netcoreapp3.1\Insertionsort.csprojAssemblyReference.cache
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Insertionsort\Insertionsort\obj\Debug\netcoreapp3.1\Insertionsort.AssemblyInfoInputs.cache
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Insertionsort\Insertionsort\obj\Debug\netcoreapp3.1\Insertionsort.AssemblyInfo.cs
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Insertionsort\Insertionsort\obj\Debug\netcoreapp3.1\Insertionsort.csproj.CoreCompileInputs.cache
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Insertionsort\Insertionsort\obj\Debug\netcoreapp3.1\Insertionsort.dll
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Insertionsort\Insertionsort\obj\Debug\netcoreapp3.1\Insertionsort.pdb
+E:\aauni\Algorithmen\algorithmen_datenstrukturen\Insertionsort\Insertionsort\obj\Debug\netcoreapp3.1\Insertionsort.genruntimeconfig.cache

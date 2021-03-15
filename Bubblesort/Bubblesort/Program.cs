@@ -6,9 +6,9 @@ namespace Bubblesort
     {
         static void Main(string[] args)
         {
-
+            //komplexität
             // n indiziertes array
-            int[] n = { 97, 45, 12, 79, 18 };
+            int[] n = { 45, 45, 12, 79, 18,123, 23,44,77,88 };
 
             int[] sorted = bubbleSort(n);
           
